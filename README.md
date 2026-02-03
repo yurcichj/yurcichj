@@ -1,8 +1,7 @@
 # HELLO WORLD IT IS ME
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png?20240115205409 "I LOVE SPAIN")
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/18/Flag_of_Croatia.png "JA SAM HRVAT")
-
-![Alt text for external GIF](https://tenor.com/biKddXsgQha.gif)
+![Alt text](https://tenor.com/biKddXsgQha.gif)
 
 <!--
 **yurcichj/yurcichj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

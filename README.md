@@ -1,7 +1,7 @@
 # HELLO WORLD IT IS ME
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png?20240115205409 "I LOVE SPAIN")
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/18/Flag_of_Croatia.png "JA SAM HRVAT")
-![alt text](https://tenor.com/view/yume-nikki-yume-2kki-2kki-yummy-nickel-rpgmaker-gif-955467082442104938)
+!(https://tenor.com/view/yume-nikki-yume-2kki-2kki-yummy-nickel-rpgmaker-gif-955467082442104938)
 
 <!--
 **yurcichj/yurcichj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

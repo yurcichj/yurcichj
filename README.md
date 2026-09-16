@@ -1,6 +1,8 @@
 Hello, my name is Jude Yurcich. I am a master's student at Pace University studying economic analyis and data science. Nice to meet you and thank you for viewing my Github!
 
+<p align="center">
 <img width="390" height="219" alt="intro-1629822652" src="https://github.com/user-attachments/assets/de3e91f1-571d-493a-9041-04dd6af30805" />
+</p>
 
 - 🔭 I’m currently working on econometric projects for my classes.
 - 🌱 I’m currently learning master's level econometrics and programming, as well as AI.
@@ -8,4 +10,7 @@ Hello, my name is Jude Yurcich. I am a master's student at Pace University study
 - 📫 How to reach me: Please reach me via email or LinkedIn, I am happy to talk!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love sports, political science, mythology, and music!
+
+<p align="center">
 <img width="498" height="260" alt="filip-chytil-nyr" src="https://github.com/user-attachments/assets/3a865235-a8c4-4313-b1e6-f698e7792158" />
+</p>

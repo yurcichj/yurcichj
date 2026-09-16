@@ -10,7 +10,7 @@ Hello, my name is Jude Yurcich. I am a master's student at Pace University study
 
 - 🔭 I’m currently working on econometric projects for my classes. In the past, I have conducted internships with minor league baseball teams doing data analytics, as well as managing a team of workers at West Orange Township's Health Department.
 - 🌱 I’m currently learning master's level econometrics and programming, as well as AI. I also know R, Python, and Stata, as well as Excel and Tableau.
-- 💬 Ask me about what I'm passionate about or planning for the future.
+- 💬 Ask me what I'm passionate about or planning for the future.
 - 📫 How to reach me: Please reach me via email or LinkedIn, I am happy to talk!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love sports, political science, mythology, and music!

@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="230" height="130" alt="NYC skyline sunset" src="https://i.pinimg.com/originals/be/1c/f1/be1cf1738d67bce6dc3f5918a78b68ec.gif" />
+</p>
+
 Hello, my name is Jude Yurcich. I am a master's student at Pace University studying economic analyis and data science. Nice to meet you and thank you for viewing my Github!
 
 <p align="center">

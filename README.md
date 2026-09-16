@@ -8,3 +8,4 @@ Hello, my name is Jude Yurcich. I am a master's student at Pace University study
 - 📫 How to reach me: Please reach me via email or LinkedIn, I am happy to talk!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love sports, political science, and music!
+<img width="498" height="260" alt="filip-chytil-nyr" src="https://github.com/user-attachments/assets/3a865235-a8c4-4313-b1e6-f698e7792158" />
